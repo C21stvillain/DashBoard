@@ -1,0 +1,30 @@
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\Plan Maker.exe
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\Plan Maker.deps.json
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\Plan Maker.runtimeconfig.json
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\Plan Maker.runtimeconfig.dev.json
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\Plan Maker.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\Plan Maker.pdb
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\CircularProgressBar.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\WinFormAnimation.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.csprojAssemblyReference.cache
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.AnalForm.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.ArchiveForm.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.CalenderForm.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.Form1.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.Form2.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.Properties.Resources.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan_Maker.SettingsForm.resources
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.csproj.GenerateResource.cache
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.AssemblyInfoInputs.cache
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.AssemblyInfo.cs
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.csproj.CoreCompileInputs.cache
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.csproj.CopyComplete
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.dll
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.pdb
+C:\Users\exorcist\source\repos\Plan Maker_V1.1\Plan Maker\obj\Release\netcoreapp3.1\Plan Maker.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\exorcist\Desktop\setup\Plan Maker.exe
+C:\Users\exorcist\Desktop\setup\Plan Maker.dll
+C:\Users\exorcist\Desktop\setup\Plan Maker.deps.json
+C:\Users\exorcist\Desktop\setup\Plan Maker.runtimeconfig.json
+C:\Users\exorcist\Desktop\setup\Plan Maker.pdb
+C:\Users\exorcist\Desktop\setup\CircularProgressBar.dll
+C:\Users\exorcist\Desktop\setup\System.Data.SqlClient.dll
+C:\Users\exorcist\Desktop\setup\WinFormAnimation.dll
+C:\Users\exorcist\Desktop\setup\runtimes\win-arm64\native\sni.dll
+C:\Users\exorcist\Desktop\setup\runtimes\win-x64\native\sni.dll
+C:\Users\exorcist\Desktop\setup\runtimes\win-x86\native\sni.dll
+C:\Users\exorcist\Desktop\setup\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\exorcist\Desktop\setup\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
